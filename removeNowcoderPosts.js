@@ -15,7 +15,7 @@ const ncMaskKeyWords = [
     ['offer','选择'],
     ['渣硕']
 ];
-
+// 子数组之间为 or 关系，子数组内部各个关键字为 and 关系
 (function() {
     'use strict';
     main();
